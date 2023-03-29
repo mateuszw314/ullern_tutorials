@@ -6,5 +6,5 @@
 - [solutions](https://colab.research.google.com/drive/1lDgHHIdL_QkWRIttYM1jjCAWlyLosxyT?usp=sharing)
 
 ## Understanding the results of classification
-- empty notebook
+- [empty notebook](https://colab.research.google.com/drive/1xtEqWBZSrqGBXwjySin6c3RanFyuZO_g?usp=sharing)
 - solutions
