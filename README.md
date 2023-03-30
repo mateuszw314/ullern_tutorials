@@ -7,4 +7,7 @@
 
 ## Understanding the results of classification
 - [empty notebook](https://colab.research.google.com/drive/1xtEqWBZSrqGBXwjySin6c3RanFyuZO_g?usp=sharing)
-- solutions
+- [solutions](https://colab.research.google.com/drive/16Sjg0qma7lpHTGyvuCnqTTwUjxryHzno?usp=sharing)
+
+
+E-mail address in case of questions: mateusz.wasiluk@ibv.uio.no
